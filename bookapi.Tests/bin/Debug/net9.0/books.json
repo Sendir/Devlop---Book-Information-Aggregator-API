@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A novel about the serious issues of rape and racial inequality.",
+    "published_year": 1960
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+    "published_year": 1949
+  },
+  {
+    "id": 3,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "The narrative of Captain Ahab\u0027s obsessive quest to kill the white whale, Moby Dick.",
+    "published_year": 1851
+  },
+  {
+    "id": 4,
+    "title": "New Book",
+    "author": "Myself, obviously",
+    "description": "Waste of Space",
+    "published_year": 2024
+  },
+  {
+    "id": 5,
+    "title": "New Book2",
+    "author": "Myself, obviously",
+    "description": "Waste of Space",
+    "published_year": 2024
+  },
+  {
+    "id": 6,
+    "title": "New Book3",
+    "author": "Myself, obviously",
+    "description": "Waste of Space",
+    "published_year": 2024
+  },
+  {
+    "id": 7,
+    "title": "string",
+    "author": "string",
+    "description": "string",
+    "published_year": 2147483647
+  },
+  {
+    "id": 8,
+    "title": "Unit Test Book",
+    "author": "Test Author",
+    "description": "A test book",
+    "published_year": 2025
+  },
+  {
+    "id": 9,
+    "title": "Duplicate Book",
+    "author": "Author A",
+    "description": "First copy",
+    "published_year": 2025
+  }
+]
