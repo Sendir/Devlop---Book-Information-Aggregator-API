@@ -129,3 +129,4 @@ D:\Code\C#\DevlopBookAPI\bookapi\obj\Debug\net9.0\refint\bookapi.dll
 D:\Code\C#\DevlopBookAPI\bookapi\obj\Debug\net9.0\bookapi.pdb
 D:\Code\C#\DevlopBookAPI\bookapi\obj\Debug\net9.0\bookapi.genruntimeconfig.cache
 D:\Code\C#\DevlopBookAPI\bookapi\obj\Debug\net9.0\ref\bookapi.dll
+D:\Code\C#\DevlopBookAPI\bookapi\obj\Debug\net9.0\bookapi.sourcelink.json

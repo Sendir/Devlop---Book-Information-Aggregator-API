@@ -212,3 +212,4 @@ D:\Code\C#\DevlopBookAPI\bookapi.Tests\bin\Debug\net9.0\System.Net.Http.Json.dll
 D:\Code\C#\DevlopBookAPI\bookapi.Tests\bin\Debug\net9.0\System.Text.Encodings.Web.dll
 D:\Code\C#\DevlopBookAPI\bookapi.Tests\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Code\C#\DevlopBookAPI\bookapi.Tests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+D:\Code\C#\DevlopBookAPI\bookapi.Tests\obj\Debug\net9.0\bookapi.Tests.sourcelink.json
